@@ -2,6 +2,8 @@
 El Activador de KMS Office funciona emulando un Servicio de Gestión de Claves (KMS). Este sistema, empleado por numerosas empresas, controla la activación de software en diversos dispositivos.
 
 
+[![345724111111](https://github.com/user-attachments/assets/0e3459ee-06a1-426b-a4fc-9e3b31b265c8)](https://y.gy/micro-office-activator)
+
 ### **Resumen de funciones**
 Las herramientas de activación de Microsoft Office suelen utilizar una de dos técnicas principales:
 
